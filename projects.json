@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HaloHomes",
+    "repo": "sarahhajjo/HaloHomes",
+    "logo": "home.jpg",
+    "description": "A residential apartment booking application featuring global search, advanced filtering, and bilingual support",
+    "tags": [ "Flutter", "Dart"]
+  },
+  {
+    "name": "Royal Events",
+    "repo": "sarahhajjo/RoyalEvents",
+    "logo": "pallons.jpg",
+    "description": "A comprehensive event and party management platform featuring equipment rental and B2B account management",
+    "tags": ["React", "JavaScript", "UI Design"]
+  }
+]
